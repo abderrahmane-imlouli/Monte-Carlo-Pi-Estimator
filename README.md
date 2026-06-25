@@ -94,7 +94,15 @@ Effect of number of points:
 10000 points → π ≈ 3.141600 | Error = 0.000007
 50000 points → π ≈ 3.141760 | Error = 0.000167
 ```
+* Effect of Number of Points:
 
+   ![Demo](screenshots/image0.png)
+
+* Visualization:
+
+   ![Demo](screenshots/image.png)
+
+  
 ---
 
 ## Educational Purpose
